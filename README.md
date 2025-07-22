@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Aditya Shinde</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Passionate+ML+and+Web+Developer+from+India" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Passionate+ML+and+Web+Developer+from+India&background=000000&size=22" alt="Typing SVG with black background" />
+</p>
+
 
 ---
 
