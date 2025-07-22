@@ -53,16 +53,16 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/><br/>GitHub
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="50" height="50"/><br/>GitHub
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/><br/>AWS
+      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="50" height="50"/><br/>AWS
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/><br/>Figma
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/canva.png" width="50" height="50"/><br/>Canva
+      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/canva-logo-circle-freelogovectors.net_.png" width="50" height="50"/><br/>Canva
     </td>
   </tr>
 </table>
