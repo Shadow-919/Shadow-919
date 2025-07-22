@@ -1,91 +1,97 @@
-# Hey 👋, I'm Aditya Shinde
+<h1 align="center">Hey 👋, I'm Aditya Shinde</h1>
 
-<div align="center" style="margin-bottom: 20px;">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+ML+and+Web+Developer+from+India&center=true&width=500&height=40&color=00FF00&background=000000&pause=1000&vCenter=true&size=20" alt="Typing SVG" />
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Passionate+ML+and+Web+Developer+from+India" alt="Typing SVG" />
 </div>
-
-<br/>
-
-# 💫 About Me:
-🌱 Learning: Deep Learning, MLOps, Flask, and GitHub Actions.<br>
-💡 Interested in: AI Research, Web Development, Computer Vision, and Data Analysis.
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/><br>Python
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br/>Python
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30"/><br>PyTorch
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/><br/>PyTorch
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30"/><br>Flask
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br/>TensorFlow
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/><br>TensorFlow
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/><br/>Flask
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/><br>HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/>HTML5
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/><br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/>CSS3
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/><br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br/>JavaScript
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/><br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/><br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/><br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" height="30"/><br>Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/><br>AWS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/><br/>MySQL
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="30"/><br>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/><br/>NumPy
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/><br>GitHub
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/><br/>Pandas
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/><br>Figma
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/><br/>Matplotlib
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30"/><br>Canva
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br/>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/><br/>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/><br/>AWS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/><br/>Figma
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/canva.png" width="50" height="50"/><br/>Canva
     </td>
   </tr>
 </table>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shadow-919&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shadow-919&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shadow-919&theme=neon&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&layout=compact" width="48%" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shadow-919&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadow-919&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Shadow-919&icon=0&color=0" alt="Visitor count"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
