@@ -20,7 +20,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br/>TensorFlow
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50"/><br/>Flask
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQghSS8ZmLvypSZyjs8OGr2LfcU5IpWsuZeTA&s" width="50" height="50"/><br/>Flask
     </td>
   </tr>
   <tr>
