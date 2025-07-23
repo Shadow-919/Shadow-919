@@ -86,20 +86,10 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shadow-919&theme=neon&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="46%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shadow-919&theme=neon&hide_border=false" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&layout=compact" width="38%" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shadow-919&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
-</p>
-
-
