@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Passionate+ML+and+Web+Developer+from+India&background=000000&size=22" alt="Typing SVG with black background" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="450" alt="Tech Animation GIF" />
+</p>
+
 <div align="left">
 
 ## 👨‍💻 About Me
@@ -52,7 +56,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/><br/>NumPy
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/><br/>Pandas
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" width="50" height="50"/><br/>Pandas
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/><br/>Matplotlib
