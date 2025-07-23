@@ -4,6 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Passionate+ML+and+Web+Developer+from+India&background=000000&size=22" alt="Typing SVG with black background" />
 </p>
 
+<div align="left">
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering graduate with specialization in AI & ML
+- 🌐 Passionate about solving real-world problems with clean and impactful code  
+- 🧠 Strong foundation in Python, Machine Learning, and modern web technologies  
+
+</div>
 
 ---
 
@@ -70,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
@@ -81,6 +90,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&layout=compact" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shadow-919&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" width="180"/>
+</p>
+
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -89,6 +103,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shadow-919&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shadow-919&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
+
