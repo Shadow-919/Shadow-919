@@ -94,11 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&layout=compact" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shadow-919&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" width="180"/>
-</p>
-
-
 ---
 
 ## 🏆 GitHub Trophies
