@@ -91,6 +91,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&layout=compact&cache_seconds=3600" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-919&theme=neon&hide_border=false&layout=compact&cache_seconds=30" width="38%" />
 </p>
 
