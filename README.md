@@ -86,7 +86,7 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-919&theme=neon&hide_border=false&include_all_commits=false&count_private=false&t=12345" width="46%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shadow-919&theme=neon&hide_border=false&t=1234" width="50%" />
 </p>
 
