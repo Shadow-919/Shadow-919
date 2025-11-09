@@ -76,7 +76,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/><br/>Figma
     </td>
     <td align="center">
-      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/canva-logo-circle-freelogovectors.net_.png" width="50" height="50"/><br/>Canva
+      <img src="https://images.seeklogo.com/logo-png/39/1/django-logo-png_seeklogo-394570.png" width="50" height="50"/><br/>Django
     </td>
   </tr>
 </table>
