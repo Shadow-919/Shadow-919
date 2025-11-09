@@ -76,7 +76,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/><br/>Figma
     </td>
     <td align="center">
-      <img src="https://images.seeklogo.com/logo-png/39/1/django-logo-png_seeklogo-394570.png" width="50" height="50"/><br/>Django
+      <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png" width="50" height="50"/><br/>Django
     </td>
   </tr>
 </table>
