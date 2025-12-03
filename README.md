@@ -88,11 +88,11 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shadow-919&theme=tokyonight" width="46%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shadow-919&theme=2077" width="46%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shadow-919&theme=neon&hide_border=false&t=12345" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shadow-919&theme=tokyonight" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shadow-919&theme=2077" width="38%" />
 </p>
 
