@@ -18,9 +18,7 @@
 
 </div>
 
----
-
-## **Portfolio:** [Link](https://aditya-portfolio-6gxz.onrender.com/)
+## 🖥️ **Portfolio:** [Link](https://aditya-portfolio-6gxz.onrender.com/)
 
 ---
 
@@ -90,11 +88,11 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-lokenx.vercel.app/api?username=shadow-919&theme=neon" width="46%" />
+  <img src="https://github-readme-stats-lokenx.vercel.app/api?username=Shadow-919&theme=neon" width="46%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shadow-919&theme=neon&hide_border=false&t=12345" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-lokenx.vercel.app/api/top-langs/?username=shadow-919&layout=compact&theme=neon" width="38%" />
+  <img src="https://github-readme-stats-lokenx.vercel.app/api/top-langs/?username=Shadow-919&layout=compact&theme=neon" width="38%" />
 </p>
 
